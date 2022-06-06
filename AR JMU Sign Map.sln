@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR JMU Sign Map", "AR JMU Sign Map.csproj", "{FEE04909-9055-3DF5-D7D1-95B2A8C357E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR JMU Sign Map.Editor", "AR JMU Sign Map.Editor.csproj", "{F3526147-EE2C-B852-550B-1A395AC4A484}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEE04909-9055-3DF5-D7D1-95B2A8C357E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE04909-9055-3DF5-D7D1-95B2A8C357E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE04909-9055-3DF5-D7D1-95B2A8C357E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE04909-9055-3DF5-D7D1-95B2A8C357E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3526147-EE2C-B852-550B-1A395AC4A484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3526147-EE2C-B852-550B-1A395AC4A484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3526147-EE2C-B852-550B-1A395AC4A484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3526147-EE2C-B852-550B-1A395AC4A484}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
